@@ -4,7 +4,6 @@
 - 📜 I’m looking to collaborate on any coding challenges to improve my craft. 
 - 📫 Reach me at...
 - 🎭 Portfolio at...
-- 🐤 https://twitter.com/john_jxr  
 
 <!---
 Johnjx/Johnjx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

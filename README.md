@@ -1,8 +1,7 @@
-- 👋 Hi, I’m John.
-- 🟦⛓ I’m interested in all aspects of development, and hope to take an aim at blockchain tech in the future. 
-- 🌱 I’m currently learning Full Stack Web Dev at BloomTech!
-- 📜 I’m looking to collaborate on any coding challenges to improve my craft. 
-- 📫 Reach me at...
+## Hello, I'm John
+- ⚡ I’m currently studying Bitcoin & Lightning Network development
+- 📜 I’m looking to collaborate on any applications that utilize Bitcoin's lightning network
+- 🏒 I enjoy sports and gaming
 - 🎭 Portfolio at...
 
 <!---

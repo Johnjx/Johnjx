@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on graduating from [BloomTech](https://www.bloomtech.com/)
 
-- ⚡ I’m studying Bitcoin & Lightning Network development: **Mastering Bitcoin** (https://github.com/bitcoinbook/bitcoinbook)
+- ⚡ I’m studying Bitcoin & Lightning Network development: **Mastering Bitcoin** by Andreas Antonopoulos (https://github.com/bitcoinbook/bitcoinbook)
 
 - ⚒ I’m looking to collaborate on any applications that utilize Bitcoin's lightning network. Learn more about the network here: [https://river.com/learn/terms/l/lightning-network/](https://river.com/learn/terms/l/lightning-network/)
 
@@ -14,6 +14,8 @@
 - 💬 Ask me about **Games, Sports, and the Future**
 
 - 📫 How to reach me: **john.jxr@pm.me**
+
+- 🎭 Portfolio Website [here](https://johnruddock.vercel.app/)
 
 - 😸 Fun fact: **I sold the Ethereum top**
 

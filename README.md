@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on graduating from [BloomTech](https://www.bloomtech.com/)
 
-- ⚡ I’m studying Bitcoin & Lightning Network development: **Mastering Bitcoin**
+- ⚡ I’m studying Bitcoin & Lightning Network development: **Mastering Bitcoin** (https://github.com/bitcoinbook/bitcoinbook)
 
 - ⚒ I’m looking to collaborate on any applications that utilize Bitcoin's lightning network [https://river.com/learn/terms/l/lightning-network/](https://river.com/learn/terms/l/lightning-network/)
 

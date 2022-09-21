@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm John</h1>
 <h3 align="center">A driven Web Developer ready to build tools for the internet's new layer</h3>
 
-- 🔭 I’m currently working on graduating from [BloomTech](https://www.bloomtech.com/) & developing for [Underdog Devs](https://a.underdogdevs.dev/landing)
+- 🦁 I’m currently working with [Sphinx](http://sphinx.chat/) as a freelance Frontend Dev
 
 - ⚡ I’m studying Bitcoin & Lightning Network development: **Mastering Bitcoin** by Andreas Antonopoulos (https://github.com/bitcoinbook/bitcoinbook)
 
@@ -9,13 +9,7 @@
 
 - 👽 I’m open to any resources or information pertinent to the Tech / AI Industry. The intersection of humans and AI is going to be very interesting, article: [https://www.parc.com/blog/half-human-half-computer-meet-the-modern-centaur/](https://www.parc.com/blog/half-human-half-computer-meet-the-modern-centaur/)
 
-- 📝 Visit LinkedIn to find out more about me: [https://www.linkedin.com/in/john-ruddock/](https://www.linkedin.com/in/john-ruddock/)
-
 - 💬 Ask me about **Games, Sports, and the Future**
-
-- 📫 How to reach me: **john.jxr@pm.me**
-
-- 🎭 Portfolio Website [here](https://johnruddock.vercel.app/)
 
 - 😸 Fun fact: **I sold the Ethereum top**
 

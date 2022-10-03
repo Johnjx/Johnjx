@@ -3,7 +3,7 @@
 
 - 🦁 I’m currently working with [Sphinx](http://sphinx.chat/) as a freelance Frontend Dev
 
-- ⚡ Trying to read about Bitcoin & Lightning Network development: **Mastering Bitcoin** by Andreas Antonopoulos (https://github.com/bitcoinbook/bitcoinbook)
+- ⚡ Reading about Bitcoin & Lightning Network development: **Mastering Bitcoin** by Andreas Antonopoulos (https://github.com/bitcoinbook/bitcoinbook)
 
 - ⚒ I’m looking to collaborate on any applications that utilize Bitcoin's lightning network. Learn more about the network here: [https://river.com/learn/terms/l/lightning-network/](https://river.com/learn/terms/l/lightning-network/)
 

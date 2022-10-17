@@ -9,8 +9,6 @@
 
 - 👽 I’m open to any resources or information pertinent to the Tech / AI Industry. The intersection of humans and AI is going to be very interesting, article: [https://www.parc.com/blog/half-human-half-computer-meet-the-modern-centaur/](https://www.parc.com/blog/half-human-half-computer-meet-the-modern-centaur/)
 
-- 💬 Ask me about **Games, Sports, and the Future**
-
 - 😸 Fun fact: **I sold the Ethereum top**
 
 <h3 align="left">Connect with me:</h3>

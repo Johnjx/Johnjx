@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm John</h1>
 <h3 align="center">A driven Web Developer ready to build tools for the internet's new layer</h3>
 
-- 🦁 I’m currently working with [Sphinx](http://sphinx.chat/) as a freelance Frontend Dev
+- 🦁 Currently doing some work with [Sphinx](http://sphinx.chat/) as a freelance Frontend Dev
 
 - ⚡ Reading about Bitcoin & Lightning Network development: **Mastering Bitcoin** by Andreas Antonopoulos (https://github.com/bitcoinbook/bitcoinbook)
 

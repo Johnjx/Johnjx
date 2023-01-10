@@ -5,8 +5,6 @@
 
 - ⚡ Reading about Bitcoin & Lightning Network development: **Mastering Bitcoin** by Andreas Antonopoulos (https://github.com/bitcoinbook/bitcoinbook)
 
-- ⚒ I’m looking to collaborate on any applications that utilize Bitcoin's lightning network. Learn more about the network here: [https://river.com/learn/terms/l/lightning-network/](https://river.com/learn/terms/l/lightning-network/)
-
 - 👽 I’m open to any resources or information pertinent to the Tech / AI Industry. The intersection of humans and AI is going to be very interesting, article: [https://www.parc.com/blog/half-human-half-computer-meet-the-modern-centaur/](https://www.parc.com/blog/half-human-half-computer-meet-the-modern-centaur/)
 
 - 😸 Fun fact: **I sold the Ethereum top**

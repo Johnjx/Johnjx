@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm John</h1>
 <h3 align="center">A driven Web Developer ready to build tools for the internet's new layer</h3>
 
-- 🦁 Currently doing work with [Sphinx](http://sphinx.chat/) as a freelance Frontend Dev
-
 - ⚡ Reading about Bitcoin & Lightning Network development: **Mastering Bitcoin** by Andreas Antonopoulos (https://github.com/bitcoinbook/bitcoinbook)
 
 - 👽 I’m open to any resources or information pertinent to the Tech / AI Industry. The intersection of humans and AI is going to be very interesting, article: [https://www.parc.com/blog/half-human-half-computer-meet-the-modern-centaur/](https://www.parc.com/blog/half-human-half-computer-meet-the-modern-centaur/)

@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm John</h1>
-<h3 align="center">A driven Web Developer ready to build tools for the internet's new layers</h3>
-
-- ⚡ Reading about Bitcoin & Lightning Network development: **Mastering Bitcoin** by Andreas Antonopoulos (https://github.com/bitcoinbook/bitcoinbook)
+<h3 align="center">Full Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
